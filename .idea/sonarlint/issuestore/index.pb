@@ -5,3 +5,5 @@ I
 tests/artwork-nft.test.ts,3/4/340148ad1abb32df67136386a52585e5ceac1a10
 C
 tests/test-utils.ts,9/f/9fda4008f387bc8dd541bb9f9e457fe6f5f4fc1e
+J
+contracts/marketplace.clar,e/2/e2a45a6789a1d0483fc133fffb49ff482a2e137b
