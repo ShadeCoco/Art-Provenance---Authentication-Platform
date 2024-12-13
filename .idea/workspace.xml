@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bec5f0cb-5b2e-45cb-a244-344c5898d866" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tests/test-utils.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/artwork-nft.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tests/artwork-nft.test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/marketplace.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tests/marketplace.test.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734067036258</updated>
-      <workItem from="1734067037299" duration="522000" />
+      <workItem from="1734067037299" duration="848000" />
     </task>
     <servers />
   </component>

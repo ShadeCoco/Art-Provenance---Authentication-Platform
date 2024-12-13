@@ -7,3 +7,5 @@ C
 tests/test-utils.ts,9/f/9fda4008f387bc8dd541bb9f9e457fe6f5f4fc1e
 J
 contracts/marketplace.clar,e/2/e2a45a6789a1d0483fc133fffb49ff482a2e137b
+I
+tests/marketplace.test.ts,9/5/95227c39b395fbc864f16d5183388b838084c883
